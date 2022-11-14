@@ -2,7 +2,7 @@
 
 #### Hello my name is Oliver.
 
-- 🔭 I’m currently working on my wheater project
+- 🔭 I’m currently working on my weather project
 - 🌱 I’m currently learning React-Native, Assembly, .Net
 
 ## Socials
